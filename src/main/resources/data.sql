@@ -1,0 +1,11 @@
+INSERT INTO BRAND(NAME) VALUES
+ ('ADIDAS'),
+ ('PUMA'),
+ ('NIKE'),
+ ('LEE');
+
+ INSERT INTO COLOR(NAME, CODE) VALUES
+  ('RED','RD'),
+  ('GREEN','GR'),
+  ('BLUE','BL'),
+  ('YELLOW','YL');

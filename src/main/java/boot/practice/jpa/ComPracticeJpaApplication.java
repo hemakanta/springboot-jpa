@@ -1,4 +1,4 @@
-package com.practice.jpa;
+package boot.practice.jpa;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;

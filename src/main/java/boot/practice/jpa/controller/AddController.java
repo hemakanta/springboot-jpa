@@ -1,4 +1,4 @@
-package com.practice.jpa.controller;
+package boot.practice.jpa.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

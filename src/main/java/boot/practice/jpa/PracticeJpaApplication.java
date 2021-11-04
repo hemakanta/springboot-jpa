@@ -6,11 +6,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 
 @Slf4j
-@SpringBootApplication(exclude={DataSourceAutoConfiguration.class})
-public class ComPracticeJpaApplication {
+@SpringBootApplication//(exclude={DataSourceAutoConfiguration.class})
+public class PracticeJpaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ComPracticeJpaApplication.class, args);
+		SpringApplication.run(PracticeJpaApplication.class, args);
 		log.info("########## !!!!!!!!!!!! Application started !!!!!! ############");
 
 	}
